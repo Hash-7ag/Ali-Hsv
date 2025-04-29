@@ -42,6 +42,7 @@
 ## 📌 My Projects:
 
 - 🎯 [Quiz Board](https://ali-hsv.github.io/QuizArena-AZE/)
+-  🎨 [Mezza](https://ali-hsv.github.io/Mezza/)
 
 ## 📫 Contacts:
 - Telegram: @Ali_Kofeee
