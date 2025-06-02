@@ -42,7 +42,9 @@
 ## 📌 My Projects:
 
 - 🎯 [Quiz Board](https://ali-hsv.github.io/QuizArena-AZE/)
--  🎨 [Mezza](https://ali-hsv.github.io/Mezza/)
+- 🎓 [Web 54](https://ali-hsv.github.io/Web-54/)
+- 🎨 [Mezza](https://ali-hsv.github.io/Mezza/)
+  
 
 ## 📫 Contacts:
 - Telegram: @Ali_Kofeee
