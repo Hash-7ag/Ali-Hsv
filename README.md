@@ -9,8 +9,8 @@
 ![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&&logo=SASS&logoColor=white)
+![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=flat-square&logo=gulp&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ## 🎓 Education
