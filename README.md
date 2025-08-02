@@ -51,6 +51,3 @@
 
 ## 📫 Contacts:
 - Telegram: @Ali_Kofeee
-
-***🕒 Available for messages and replies from 4 PM to 9 PM (GMT+4)
-💬 Best time to contact: 16:00 – 21:00 (Baku time, GMT+4)***
