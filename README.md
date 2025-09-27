@@ -12,6 +12,11 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&&logo=SASS&logoColor=white)
 ![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=flat-square&logo=gulp&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 
 ## ℹ️ About me:
 
