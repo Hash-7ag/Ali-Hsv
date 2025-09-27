@@ -2,7 +2,7 @@
 
 📟 Front-End Web Designer  
 
->Hi, NanS — a web developer passionate about creating websites.
+>Hi, I'm NanS — a web developer passionate about creating websites.
 
 ## 🛠️ Technology
 
